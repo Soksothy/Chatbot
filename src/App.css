@@ -55,7 +55,7 @@ body {
     padding-bottom: 0.5rem;
 }
 
-.bg-[#15284C] {
+.bg {
     background-color: #15284C;
 }
 
@@ -63,7 +63,7 @@ body {
     color: #fff;
 }
 
-.bottom-[30px] {
+.bottom {
     margin-bottom: 30px;
 }
 
@@ -142,7 +142,7 @@ button:hover {
 
 .chatbot-button {
     padding: 1.5rem 2rem;
-    background-color: #15284C;
+    background-color: #014fe8;
     color: white;
     border: none;
     border-radius: 0.375rem;
@@ -151,7 +151,7 @@ button:hover {
 }
 
 .chatbot-button:hover {
-    background-color: #0f1f36;
+    background-color: #00347a;
 }
 
 .chatbot-history {
