@@ -55,7 +55,7 @@ body {
     padding-bottom: 0.5rem;
 }
 
-.bg-[#15284C] {
+.bg {
     background-color: #15284C;
 }
 
@@ -63,7 +63,7 @@ body {
     color: #fff;
 }
 
-.bottom-[30px] {
+.bottom {
     margin-bottom: 30px;
 }
 
