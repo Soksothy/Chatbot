@@ -142,8 +142,8 @@ button:hover {
 
 .chatbot-button {
     padding: 1.5rem 2rem;
-    background-color: #014fe8;
-    color: white;
+    background-color: #076b1a;
+    color: #ffffff;
     border: none;
     border-radius: 0.375rem;
     margin-left: 1rem;
@@ -151,7 +151,7 @@ button:hover {
 }
 
 .chatbot-button:hover {
-    background-color: #00347a;
+    background-color: #01af0e;
 }
 
 .chatbot-history {
@@ -196,7 +196,7 @@ button:hover {
 }
 
 .chatbot-question {
-    background-color: #e0f7fa;
+    background-color: #8ba7ff;
     border-radius: 0.375rem;
     padding: 1rem;
     max-width: 70%;
@@ -204,7 +204,7 @@ button:hover {
 }
 
 .chatbot-answer {
-    background-color: #f1f8e9;
+    background-color: #e6ffca;
     border-radius: 0.375rem;
     padding: 1rem;
     max-width: 70%;
